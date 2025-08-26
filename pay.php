@@ -81,7 +81,7 @@ $singleProduct = $product->fetch(PDO::FETCH_OBJ);
 </div>
 
 <!-- PayPal SDK -->
-<script src="#"></script> <!-- Replace # with your Client ID App from Developer.Paypal.com -->
+<script src="https://www.paypal.com/sdk/js?client-id=###&currency=USD"></script> <!-- Replace ### with your Client ID App from Developer.Paypal.com -->
 <script>
     paypal.Buttons({
         createOrder: (data, actions) => {
