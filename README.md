@@ -20,4 +20,17 @@ This project is an implementation of a payment page using the **PayPal API**. It
    ```bash
    git clone https://github.com/adysaptr/Payment-Page-With-Paypal.git
    ```
-4. 
+4. Make sure this project have stucture like this :
+   PaymentPaypal/
+   │
+   ├── config/
+   │ └── config.php # Database & PayPal API configuration
+   ├── images/
+   │ └── image1.png
+   │ └── image2.png
+   │ └── image3.png
+   ├── index.php # Homepage or product list page
+   ├── pay.php # Main payment processing page
+   ├── paymentpaypal.sql # SQL database
+   └── README.md # Project documentation
+   
