@@ -1,11 +1,21 @@
-# PayPal Payment Page  
+# PayPal Payment Page
 
-This project is an implementation of a payment page using the **PayPal API**. It allows users to make secure payments via PayPal with a simple and responsive interface
+![Language](https://img.shields.io/badge/Language-PHP-777BB4?style=flat&logo=php)
+![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-orange?style=flat&logo=html5)
+![Framework](https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Payment](https://img.shields.io/badge/Payment-PayPal-00457C?style=flat&logo=paypal)
+
 
 ## 📚 Table of Contents
+- [Description](#description)
 - [Features](#-features)
-- [Installation](#-how-to-run)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
+- [How to Run](#%EF%B8%8F-how-to-run)
 - [Documentation](#-documentation)
+
+## Description
+This project is an implementation of a payment page using the **PayPal API**. It allows users to make secure payments via PayPal with a simple and responsive interface
 
 
 ## ✨ Features  
@@ -88,13 +98,27 @@ This project is an implementation of a payment page using the **PayPal API**. It
 
 ## 📖 Documentation
 1. Product page
-![PayPal Checkout Page](images/paypal-checkout.png)
+![Product Page](images/productpage.jpg)
 
 2. Payment paypal page
-3. Insert payment account
-4. Credit payment account
-5. Credit bussiness account
-6. Database table
+![Paypal Page](images/paypalpage.jpg)
 
+4. Insert payment account
+![Insert account for payment](images/payment.jpg)
 
+5. Confirm payment
+![Comfirm payment](images/payment2.jpg)
+
+6. Credit personal account
+![Credit before](images/personalbefore.jpg)
+![Credit after](images/personalafter.jpg)
+
+8. Credit bussiness account
+![Credit before](images/bussinessbefore.jpg)
+![Credit after](images/bussinessafter.jpg)
+
+## 🙏 Thank You
+Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
+
+Created with 💻 by [Ady Saputra](https://github.com/adysaptr
    
